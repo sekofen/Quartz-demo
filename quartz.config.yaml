@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sekofen.github.io
+  baseUrl: https://sekofen.github.io/Quartz-demo/
   ignorePatterns:
     - private
     - templates
