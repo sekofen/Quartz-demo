@@ -26,3 +26,5 @@ El fast pole se puede lograr por medio de.
 Otra forma de colocar gifs
 
 ![Demostración en GIF](./assets/Movimientos/template.gif)
+
+.
